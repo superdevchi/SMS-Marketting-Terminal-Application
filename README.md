@@ -16,7 +16,9 @@ RUN APPLICATION ON CommandLineApplication.java
 
 On Start Of Shell: TYPE `help` TO READ INSTRUCTIONS
 
-SMS Sender
+SMS Sender:
+
+
        Numbers: STEP1: Confirm list of number in Numbers.txt in Resources folder
        Message: STEP2: list Messages in Messages.txt in Resources folder
        Link: STEP3: list Messages in Links.txt in Resources folder
